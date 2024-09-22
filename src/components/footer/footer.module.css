@@ -14,3 +14,9 @@
 .text {
   font-size: smaller;
 }
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 20px;
+  }
+}

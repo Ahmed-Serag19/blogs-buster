@@ -27,6 +27,11 @@ const SiglePost = () => {
             <span className={styles.detailValue}>09/11/2001</span>
           </div>
         </div>
+        <div className={styles.content}>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere
+          temporibus ad voluptatem laboriosam voluptatibus, incidunt quisquam
+          ducimus totam voluptates ipsam!
+        </div>
       </div>
     </div>
   );

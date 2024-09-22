@@ -9,7 +9,7 @@
   display: flex;
 }
 
-.imgContainer {
+.imageContainer {
   width: 90%;
   height: 400px;
   position: relative;
@@ -28,12 +28,12 @@
 .title {
   width: 90%;
   font-size: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 }
 
 .desc {
   width: 90%;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   font-weight: 300;
   color: gray;
 }
