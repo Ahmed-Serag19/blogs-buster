@@ -5,7 +5,12 @@ const SiglePost = () => {
   return (
     <div className={styles.container}>
       <div className={styles.imageContainer}>
-        <Image src="/about.png" alt="" fill className={styles.image} />
+        <Image
+          src="/about.png"
+          alt="single post image"
+          fill
+          className={styles.image}
+        />
       </div>
       <div className={styles.textContainer}>
         <h1 className={styles.title}>Title</h1>
